@@ -1,0 +1,192 @@
+.maincontainer{
+  height: 100vh;
+  width: 100%;
+  background-image: url('./images/LandingPage-10.png');  
+  background-size: 100% 100%;
+ 
+ 
+}
+.maincontainer_getinvolved{
+    height: 100vh;
+    width: 100%;
+    background-image: url('./images/Landing\ Page-11.png');  
+    background-size: 100% 100%;
+   
+   
+  }
+.maincontainer_vision{
+    height: 100vh;
+    width: 100%;
+    background-image: url('./images/Landing\ Page-13.png');  
+    background-size: 100% 100%;
+   
+   
+  }
+.footer{
+    height: 110px;
+    width: 100%;
+    background-color: #19559B;
+    position: absolute;
+    bottom: 12px;
+    
+
+}
+
+.footer h5 {
+    margin-left: 17px;
+    font-size: 14px;
+    
+
+}
+.getinvolved_refer{
+    color:white;
+    position: absolute;
+    top: 95px;
+    
+}
+
+.getinvolved_donate{
+    color:white;
+    position: absolute;
+    top: 95px;
+}
+.getinvolved_center{
+    font-size: 200px;
+    font-family: 'Thasadith', sans-serif;
+}
+@media screen and (max-width: 980px) {
+    .getinvolved_refer{
+        color:white;
+        position: absolute;
+        top: 25px;
+        font-size:4.3vw;
+        
+    }
+  }
+  @media screen and (max-width: 980px) {
+    .getinvolved_donate{
+        color:white;
+        position: absolute;
+        top: 170px;
+        
+        font-size:4.3vw;
+    }
+  }
+  @media screen and (max-width: 980px) {
+    .getinvolved_center{
+        
+        font-size:8.3vw;
+        position: absolute;
+        top: 125px;
+        left: 200px;;
+        
+    }
+  }
+  .contactus_form{
+      position: absolute;
+      top: 100px;
+  }
+  @media screen and (max-width: 980px) {
+    .contactus_center{
+        
+        font-size:2.3vw;
+        position: absolute;
+        top: 125px;
+        left: 180px;;
+        
+    }
+  }
+  .contactus_center{
+    font-size: 200px;
+    font-family: 'Thasadith', sans-serif;
+    position: absolute;
+    top: 50px;
+    
+}
+.getinvolved_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.maincontainer_containt{
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    color:  #19559B;
+    font-size:3vw;
+}
+.maincontainer p{
+    position: absolute;
+    top: 500px;
+    left: 1000px;
+    color: #19559B;
+    font-family: 'Aleo', serif;
+}
+@media screen and (max-width: 980px) {
+    .maincontainer p{
+        position: absolute;
+        top: 320px;
+        left: 100px;
+        color: #19559B;
+        font-family: 'Aleo', serif;
+    }
+  }
+  @media screen and (max-width: 980px) {
+    .footer{
+        height: 255px;
+        width: 100%;
+        background-color: #19559B;
+        position: absolute;
+        bottom: 12px;
+        position: absolute;
+        top: 350px;
+        
+    
+    }
+    
+  }
+  .maincontainer_pre{
+    text-align:center;
+    color:#19559B;
+    font-family: 'Alike', serif;
+    font-size:1.2vw;
+  }
+  .maincontainer_pre_aboutus{
+    text-align:center;
+    color:#19559B;
+    font-family: 'Alike', serif;
+    font-size:1.3vw;
+  }
+  @media screen and (max-width: 980px) {
+    .maincontainer_pre_aboutus{
+        text-align:center;
+        color:#19559B;
+        font-family: 'Alike', serif;
+        font-size:2.5vw;
+        position: absolute;
+        left: 70px;
+        bottom: 50px
+      }
+      
+}
+  @media screen and (max-width: 980px) {
+    .maincontainer_pre{
+        text-align:center;
+        color:#19559B;
+        font-size:2.1vw;
+      }
+      
+}
+.img_aboutus{
+    height: 350px;
+    width: 350px;
+}
+@media screen and (max-width: 700px) {
+    
+    .img_aboutus{
+        height: 180px;
+        width: 130px;
+    }   
+}
+    
+  
